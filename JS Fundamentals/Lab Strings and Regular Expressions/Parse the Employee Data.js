@@ -15,4 +15,4 @@ parseTheEmployeeData(["Isacc - 1000 - CEO",
 
 parseTheEmployeeData(["Jonathan - 2000 - Manager",
 "Peter- 1000- Chuck",
-"George - 1000 - Team Leader "])
+"George - 1000 - Team Leader "]);
